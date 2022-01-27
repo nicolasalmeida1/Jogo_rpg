@@ -7,7 +7,7 @@ namespace Jogo_rpg
         }
         public override string Attack()
         {
-            return Name + " Lançou suas shurikens";
+            return Name + " Lançou suas shurikens, e ninguém o viu...";
         }
     }
 }
