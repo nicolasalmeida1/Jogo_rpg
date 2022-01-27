@@ -1,0 +1,16 @@
+C:\Users\Nicolas\Desktop\Jogo_rpg\bin\Debug\net5.0\Jogo_rpg.exe
+C:\Users\Nicolas\Desktop\Jogo_rpg\bin\Debug\net5.0\Jogo_rpg.deps.json
+C:\Users\Nicolas\Desktop\Jogo_rpg\bin\Debug\net5.0\Jogo_rpg.runtimeconfig.json
+C:\Users\Nicolas\Desktop\Jogo_rpg\bin\Debug\net5.0\Jogo_rpg.runtimeconfig.dev.json
+C:\Users\Nicolas\Desktop\Jogo_rpg\bin\Debug\net5.0\Jogo_rpg.dll
+C:\Users\Nicolas\Desktop\Jogo_rpg\bin\Debug\net5.0\ref\Jogo_rpg.dll
+C:\Users\Nicolas\Desktop\Jogo_rpg\bin\Debug\net5.0\Jogo_rpg.pdb
+C:\Users\Nicolas\Desktop\Jogo_rpg\obj\Debug\net5.0\Jogo_rpg.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\Jogo_rpg\obj\Debug\net5.0\Jogo_rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Desktop\Jogo_rpg\obj\Debug\net5.0\Jogo_rpg.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\Jogo_rpg\obj\Debug\net5.0\Jogo_rpg.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\Jogo_rpg\obj\Debug\net5.0\Jogo_rpg.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\Jogo_rpg\obj\Debug\net5.0\Jogo_rpg.dll
+C:\Users\Nicolas\Desktop\Jogo_rpg\obj\Debug\net5.0\ref\Jogo_rpg.dll
+C:\Users\Nicolas\Desktop\Jogo_rpg\obj\Debug\net5.0\Jogo_rpg.pdb
+C:\Users\Nicolas\Desktop\Jogo_rpg\obj\Debug\net5.0\Jogo_rpg.genruntimeconfig.cache
